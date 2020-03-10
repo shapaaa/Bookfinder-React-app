@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Zhi+Mang+Xing&display=swap');
+
+.middle {
+    height: 60vh;
+}
+
+.main-article {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+#middle {
+    color: black;
+    font-family: 'Zhi Mang Xing', cursive;
+    font-stretch: ultra-expanded;
+}
+
+.book {
+    margin-top: 20px;
+    height: 300px;
+    width: 600px;
+
+}

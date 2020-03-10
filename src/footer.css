@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+
+.footer {
+    background-color: #349797;
+    height: 300px;
+}
+.footer-art{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 40px;
+}
+.footer-sec{
+    cursor: pointer;
+}
+#api{
+    font-size: large;
+    align-self: center;
+    height: 118px;
+    width:200px;
+    margin-left: 40px;
+    background-color: chartreuse;
+    padding-top: 45px;
+}
+#footer {
+    padding-top: 20px;
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 20px;
+}

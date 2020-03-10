@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+}
+
+#search {
+    margin-bottom: 30px;
+    padding-top: 30px;
+    color: white;
+    text-shadow: black;
+    font-weight: lighter;
+    font-family: 'Pacifico', cursive;
+}
+
+input {
+    border: 1px solid darkgray;
+    border-radius: .3em;
+    width: 250px;
+    height: 30px;
+}
+
+.searchbar {
+    height: 35vh;
+    background-image: url("https://source.unsplash.com/sfL_QOnmy00/1600x400");
+    background-size: cover;
+}

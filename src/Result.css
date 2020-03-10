@@ -1,0 +1,54 @@
+/* .Result {
+   
+} */
+
+.book-img {
+    border: 1px solid darkgrey;
+    width: 180px;
+    height: 250px;
+
+}
+
+.save {
+    text-decoration: none;
+    width: 80px;
+    height: 40px;
+    border: 1px solid springgreen;
+    background-color: springgreen;
+    border-radius: .3rem;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .2);
+    cursor: pointer;
+}
+
+.remove {
+    text-decoration: none;
+    cursor: pointer;
+    width: 80px;
+    height: 40px;
+    border: 1px solid crimson;
+    background-color: crimson;
+    border-radius: .3rem;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .2);
+}
+
+.Result {
+    margin: 20px;
+}
+
+.Result-div {
+    /* border: 1px solid darkgrey; */
+    margin: 100px;
+    box-shadow: 1em 1em 1em rgba(0, 0, 0, .2);
+}
+
+.Result-fig {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+figcaption {
+    font-size: smaller;
+    font-stretch: expanded;
+    font-weight: lighter;
+    cursor: pointer;
+}
